@@ -1,8 +1,8 @@
-# Workout Planner
+# GymBro
 
 ## Description
 
-Workout Planner is a web application that helps you create personalized workout plans tailored to your fitness goals. Whether you're aiming for strength, endurance, or a balanced routine, this platform simplifies the process of designing your exercise schedule.
+GymBro is a web application that helps you create personalized workout plans tailored to your fitness goals. Whether you're aiming for strength, endurance, or a balanced routine, this platform simplifies the process of designing your exercise schedule.
 
 ## Features
 
